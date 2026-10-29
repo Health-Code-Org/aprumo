@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./materiais-originais/joao-identidade-visual/logo-aprumo-gradiente.png" alt="Logo Aprumo" width="420">
+  <img src="./materiais-originais/joao-identidade-visual/aprumo.png" alt="Logo Aprumo" width="420">
 </p>
 
 <h1 align="center">Aprumo — Ergonomia e Postura</h1>
